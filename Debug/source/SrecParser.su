@@ -1,0 +1,13 @@
+../source/SrecParser.c:180:11:parseRecordLine	168	static
+../source/SrecParser.c:249:13:write_to_flash	48	static
+../source/SrecParser.c:274:17:TEXT_TO_HEX	24	static
+../source/SrecParser.c:288:18:checkHexa	32	static
+../source/SrecParser.c:302:18:checkS	24	static
+../source/SrecParser.c:313:18:checkByteCount	32	static
+../source/SrecParser.c:324:18:checkSum	48	static
+../source/SrecParser.c:356:13:getData	40	static
+../source/SrecParser.c:398:13:getType0123789Data	48	static
+../source/SrecParser.c:422:13:getType56Data	32	static
+../source/SrecParser.c:433:18:checkLineCount	40	static
+../source/SrecParser.c:446:13:sendData	16	static
+../source/SrecParser.c:455:13:sendError	48	static

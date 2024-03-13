@@ -1,0 +1,5 @@
+../source/SrecParser.c:413:13:transmit	0	static
+../source/SrecParser.c:238:17:TEXT_TO_HEX	8	static
+../source/SrecParser.c:365:13:getType0123789Data	32	static
+../source/SrecParser.c:418:6:sendMessage	16	static
+../source/SrecParser.c:185:11:parseRecordLine	192	static

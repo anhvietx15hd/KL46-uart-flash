@@ -1,0 +1,2 @@
+../source/hardware_init.c:8:6:initButton	8	static
+../source/hardware_init.c:21:6:initLed	8	static

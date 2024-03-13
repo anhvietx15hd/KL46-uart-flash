@@ -1,0 +1,5 @@
+F:\Study\2023\FPT SOFTWARE\MCP\WS\Le_Hung_Viet_Mock_Project\CMSIS/core_cm0plus.h:733:22:__NVIC_EnableIRQ	16	static
+../source/uart.c:20:16:findOSR	40	static
+../source/uart.c:43:6:UART0_Init	32	static
+../source/uart.c:76:6:sendMessage	32	static
+../source/uart.c:85:6:transmit	16	static

@@ -1,0 +1,5 @@
+../source/Flash.c:11:10:Read_FlashAddress	16	static
+../source/Flash.c:17:9:Program_LongWord_8B	16	static
+../source/Flash.c:49:9:Program_LongWord	16	static
+../source/Flash.c:81:10:Erase_Sector	16	static
+../source/Flash.c:107:10:Erase_Multi_Sector	32	static
